@@ -7,7 +7,7 @@
     <title>Jobs List</title>
   </head>
   <body>
-    <h1>{{$title}} </h1>
+    <h1>{{$title}}</h1>
     
     <ul>
   @foreach($jobs as $job)
